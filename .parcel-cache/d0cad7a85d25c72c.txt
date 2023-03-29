@@ -5,7 +5,7 @@
 134C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\term-size\vendor\macos\.DS_Store133244103776744860 0
 154C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\dom-serializer\node_modules\entities\lib\decode.d.ts133244103783063526 0
 127C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\css-tree\lib\syntax\scope133244103790864977 1
-106C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\package-lock.json133243961640439281 0
+106C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\package-lock.json133244127704187998 0
 118C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\fastq\index.d.ts133244103781607726 0
 144C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\caniuse-lite\data\features\inline-block.js133244103796433462 0
 104C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\.browserslistrc133243917663582524 0
@@ -48,7 +48,7 @@
 141C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\caniuse-lite\data\features\mpeg-dash.js133244103798504874 0
 123C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@parcel\packager-html133244103778324014 1
 115C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\dotenv-expand133244103778994016 1
-109C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@parcel133244103807542405 1
+109C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@parcel133244127703707053 1
 173C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob133244103789591566 1
 132C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\immutable\dist\immutable.es.js133244103779576769 0
 137C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\simplelightbox\demo\img\full\02.jpg133244103785610065 0
@@ -66,7 +66,7 @@
 151C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133244103788660533 0
 159C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@parcel\watcher\prebuilds\darwin-x64\node.napi.glibc.node133244103786341213 0
 139C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@parcel\runtime-js\src\helpers\worker133244103786100223 1
-93C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\dist133244109328075041 1
+93C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\dist133245742321924715 1
 147C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@parcel\transformer-postcss\lib\loadConfig.js133244103778293966 0
 132C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\type-fest\ts41\kebab-case.d.ts133244103783518978 0
 128C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@parcel\workers\lib\bus.js133244103778293966 0
@@ -81,7 +81,7 @@
 138C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@parcel\package-manager\package.json133244103785840033 0
 111C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\nth-check133244103783739042 1
 121C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\braces\lib\utils.js133244103781437741 0
-101C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules133244103807812410 1
+101C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules133244127703707053 1
 136C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@nodelib\fs.stat\out\settings.d.ts133244103782483316 0
 125C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\terser\lib\sourcemap.js133244103787415111 0
 122C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\run-parallel\LICENSE133244103775631001 0
@@ -93,7 +93,7 @@
 143C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\axios\lib\helpers\AxiosURLSearchParams.js133244103784264399 0
 165C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\package.json133244103792060433 0
 133C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\nan\nan_converters_pre_43_inl.h133244103779023957 0
-101C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\package.json133243961640038675 0
+101C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\package.json133244127108731975 0
 150C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\source-map-support\browser-source-map-support.js133244103776151136 0
 143C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@parcel\core\test\fixtures\custom-targets133244103791970340 1
 151C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\dom-serializer\node_modules\entities\lib\index.js133244103779094121 0
@@ -122,7 +122,7 @@
 126C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\glob-parent\package.json133244103777135023 0
 158C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\abortcontroller-polyfill\src\abortcontroller-polyfill.js133244103778493969 0
 165C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src\index.js133244103788490514 0
-101C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\src\index.js133243946636769949 0
+101C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\src\index.js133245742320499697 0
 135C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\caniuse-lite\data\features\es6.js133244103794491686 0
 132C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@jridgewell\trace-mapping\dist133244103780602302 1
 144C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\svgo\plugins\removeAttributesBySelector.js133244103786231154 0
@@ -166,7 +166,7 @@
 138C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\svgo\plugins\removeElementsByAttr.js133244103786751157 0
 146C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\caniuse-lite\data\features\object-entries.js133244103799164988 0
 142C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\yaml\browser\dist\PlainValue-b8036b75.js133244103784514443 0
-120C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\.package-lock.json133244103807822486 0
+120C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\.package-lock.json133244127704403430 0
 111C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\commander133244103780732303 1
 151C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@babel\helper-validator-identifier\lib\keyword.js133244103778923930 0
 151C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\htmlnano\lib\modules\removeRedundantAttributes.js133244103784694458 0
@@ -186,7 +186,7 @@
 129C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@lezer\common\dist\mix.d.ts133244103780752351 0
 134C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\css-what\lib\commonjs\index.d.ts133244103783708940 0
 148C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-color-adjust.js133244103791125161 0
-119C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@msgpackr-extract133244103807542405 1
+119C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@msgpackr-extract133244127703717049 1
 139C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133244103789291578 0
 111C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\nan\nan.h133244103784264399 0
 144C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\caniuse-lite\data\features\css3-tabsize.js133244103793481109 0
@@ -635,7 +635,7 @@
 129C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\fast-glob\out\settings.d.ts133244103786721195 0
 115C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\react-refresh133244103781172617 1
 122C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\tslib\tslib.es6.html133244103775600935 0
-104C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\dist\index.html133244104521486748 0
+104C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\dist\index.html133245732967414802 0
 137C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\terser\lib\compress\tighten-body.js133244103787575032 0
 159C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@parcel\workers\test\integration\workerfarm\master-sum.js133244103784149122 0
 131C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\@parcel\optimizer-css\LICENSE133244103775880961 0
@@ -2456,7 +2456,7 @@
 134C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\css-tree\lib\generator\create.js133244103784214445 0
 138C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\css-tree\lib\lexer\generic-urange.js133244103787365068 0
 125C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\domhandler\package.json133244103778273966 0
-116C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\dist\index.f7626f62.css.map133244109328034893 0
+116C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\dist\index.f7626f62.css.map133245732967627284 0
 151C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\crypto.c133244103784974376 0
 150C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\LICENSE133244103781102523 0
 118C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\dotenv\config.js133244103777155083 0
@@ -4955,8 +4955,8 @@
 111C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\.bin\svgo133244103803980873 0
 117C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\.bin\terser.cmd133244103803970925 0
 117C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\node_modules\.bin\terser.ps1133244103803970925 0
-111C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\dist\index.975ef6c8.js133244104521931885 0
-115C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\dist\index.975ef6c8.js.map133244104521961757 0
-112C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\dist\index.f7626f62.css133244109328034893 0
+111C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\dist\index.975ef6c8.js133245742321874323 0
+115C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\dist\index.975ef6c8.js.map133245742321904730 0
+112C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\dist\index.f7626f62.css133245732967627284 0
 106C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\.github\workflows133243919015750980 1
 117C:\Users\nazar\Desktop\Estudianto HTML CSS JavaScript\JavaScript\houmework\goit-js-hw-11\.github\workflows\deploy.yml133243917663662485 0

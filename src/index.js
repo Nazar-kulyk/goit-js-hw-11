@@ -21,7 +21,7 @@ loadMoreBtn.addEventListener('click', onLoadMoreBtn);
 onScroll();
 onToTopBtn();
 // -------------------------------------Form
-function onSearchForm(e) {
+async function onSearchForm(e) {
   e.preventDefault();
   window.scrollTo({ top: 0 });
   page = 1;
@@ -34,44 +34,46 @@ function onSearchForm(e) {
     return;
   }
 
-  fetchImages(query, page, perPage)
-    .then(({ data }) => {
-      if (data.totalHits === 0) {
-        alertNoImagesFound();
-      } else {
-        renderGallery(data.hits);
-        simpleLightBox = new SimpleLightbox('.gallery a').refresh();
-        alertImagesFound(data);
+  try {
+    const { data } = await fetchImages(query, page, perPage);
+    if (data.totalHits === 0) {
+      alertNoImagesFound();
+    } else {
+      renderGallery(data.hits);
+      simpleLightBox = new SimpleLightbox('.gallery a').refresh();
+      alertImagesFound(data);
 
-        if (data.totalHits > perPage) {
-          loadMoreBtn.classList.remove('is-hidden');
-        }
+      if (data.totalHits > perPage) {
+        loadMoreBtn.classList.remove('is-hidden');
       }
-    })
-    .catch(error => console.log(error))
-    .finally(() => {
-      searchForm.reset();
-    });
+    }
+  } catch (error) {
+    console.log(error);
+  } finally {
+    searchForm.reset();
+  }
 }
 // -------------------------------------------Btn
-function onLoadMoreBtn() {
+async function onLoadMoreBtn() {
   page += 1;
   simpleLightBox.destroy();
 
-  fetchImages(query, page, perPage)
-    .then(({ data }) => {
-      renderGallery(data.hits);
-      simpleLightBox = new SimpleLightbox('.gallery a').refresh();
+  try {
+    const { data } = await fetchImages(query, page, perPage);
+    renderGallery(data.hits);
+    simpleLightBox = new SimpleLightbox('.gallery a').refresh();
 
-      const totalPages = Math.ceil(data.totalHits / perPage);
+    const totalPages = Math.ceil(data.totalHits / perPage);
 
-      if (page > totalPages) {
-        loadMoreBtn.classList.add('is-hidden');
-        alertEndOfSearch();
-      }
-    })
-    .catch(error => console.log(error));
+    if (page >= totalPages) {
+      loadMoreBtn.classList.add('is-hidden');
+      alertEndOfSearch();
+    }
+  } catch (error) {
+    console.log(error);
+  }
 }
+
 // ------------------------------------Alert
 function alertImagesFound(data) {
   Notiflix.Notify.success(`Hooray! We found ${data.totalHits} images.`);
