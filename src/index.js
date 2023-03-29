@@ -90,5 +90,5 @@ function alertNoImagesFound() {
 }
 
 function alertEndOfSearch() {
-  Notiflix.Notify.failure("We're sorry, but you've reached the end of search results.");
+  Notiflix.Notify.failure("We're sorry, but you've reached the end of search reults.");
 }
